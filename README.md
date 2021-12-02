@@ -26,6 +26,7 @@ We are on a mission to bring the best parts of the Internet Offline, enable peop
 "We made the internet and it made us vulnerable. We fought and we won."
 
 The best part is that the massive effort put to build this awesome search engine is open to all. Yes, we are an open-source organization and over 1000 people have become an integral part of our family in our ambitious journey. You can help us too.
+Lets us add pdf support and pdf parsing as well, so that user can add pdf and can have facility search across the system in pdfs 
 
 Enjoy this tweet by David Heinemeier Hansson:
 <p align="center">
